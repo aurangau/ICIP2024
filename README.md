@@ -15,8 +15,9 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 | ![Image 1](Resulting_Images/face.png) | ![Image 2](Resulting_Images/face_blurred.png) | ![Image 3](Resulting_Images/face_restormer.png) |
 | --- | --- | --- |
 | Original Image | Blurry Image | Restormer |
-| ![Image 4](Resulting_Images/face_ifan.png) | ![Image 5](Resulting_Images/face_NBDNet.png) | ![Image 6](Resulting_Images/face_L.png) |
 
+| ![Image 4](Resulting_Images/face_ifan.png) | ![Image 5](Resulting_Images/face_NBDNet.png) | ![Image 6](Resulting_Images/face_L.png) |
+| --- | --- | --- |
 | IFAN | NBDNet | Landweber |
 
 
