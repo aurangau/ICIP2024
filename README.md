@@ -11,10 +11,12 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ## Index J
 
 ## Results
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-<!-- Replace "YourRepoName" with your actual GitHub repository name -->
+
+| ![Image 1](Resulting_Images/face.png) | ![Image 2](Resulting_Images/face.png) | ![Image 3](Resulting_Images/face.png) |
+| --- | --- | --- |
+| Caption for Image 1 | Caption for Image 2 | Caption for Image 3 |
+
 ![Caption for Image 2](Resulting_Images/face.png)
-<p>Cap</p>
 ![Caption for Image 2](Resulting_Images/face.png)
 ![Caption for Image 3](Resulting_Images/face.png)
 
@@ -26,7 +28,6 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ![Caption for Image 8](Resulting_Images/face.png)
 ![Caption for Image 9](Resulting_Images/face.png)
 
-</div>
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
 ## Metric Q based blending strategy
