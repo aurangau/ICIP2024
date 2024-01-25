@@ -12,18 +12,17 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ## Results
 
-| ![Image 1](Resulting_Images/face.png) | ![Image 2](Resulting_Images/face_blurred.png) | ![Image 3](Resulting_Images/face_restormer.png) |
+| ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
 | --- | --- | --- |
 | Original Image | Blurry Image | Restormer |
 
-| ![Image 4](Resulting_Images/face_ifan.png) | ![Image 5](Resulting_Images/face_NBDNet.png) | ![Image 6](Resulting_Images/face_L.png) |
+| ![Image 4](Superimposed_Images/face_ifan_superimposed.png) | ![Image 5](Superimposed_Images/face_NBDNet_superimposed.png) | ![Image 6](Superimposed_Images/face_L_superimposed.png) |
 | --- | --- | --- |
 | IFAN | NBDNet | Landweber |
 
-
-![Caption for Image 7](Resulting_Images/face.png)
-![Caption for Image 8](Resulting_Images/face.png)
-![Caption for Image 9](Resulting_Images/face.png)
+| ![Image 7](Superimposed_Images/face_NAL_superimposed.png) | ![Image 8](Superimposed_Images/face_PCL_superimposed.png) | ![Image 9](Superimposed_Images/face_RAID_superimposed.png) |
+| --- | --- | --- |
+| NA Landweber | PC Landweber | Ours |
 
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
