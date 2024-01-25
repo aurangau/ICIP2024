@@ -28,6 +28,15 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
+| ![Image 10](MP_LS_Comparison/img_001_SRF_2_HR_original.png) | ![Image 11](MP_LS_Comparison/img_001_SRF_2_HR_blurred.png) |
+| --- | --- |
+| Original Image | Blurry Image |
+
+| ![Image 12](MP_LS_Comparison/img_001_SRF_2_HR_LeastSquares_restored.png) | ![Image 13](MP_LS_Comparison/img_001_SRF_2_HR_MoorePenrose_restored.png) |
+| --- | --- |
+| Image restored using Least Squares Approach | Image restored using Moore-Penrose Pseudoinverse Approach |
+
+
 ## Metric Q based blending strategy
 | ![Original Image](Blending_Images/flower_original_superimposed.png) | ![Patch13](Blending_Images/flower_P13_superimposed.png) | ![Image 3](Blending_Images/flower_iter0_superimposed.png) |
 | --- | --- | --- |
