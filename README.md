@@ -11,6 +11,19 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ## Index J
 
 ## Results
+<!-- Replace "YourRepoName" with your actual GitHub repository name -->
+![Caption for Image 1](Resulting_Images/face.png)
+![Caption for Image 2](https://raw.githubusercontent.com/aurangau/img_res/image2.jpg)
+![Caption for Image 3](https://raw.githubusercontent.com/aurangau/img_res/image3.jpg)
+
+![Caption for Image 4](https://raw.githubusercontent.com/aurangau/img_res/image4.jpg)
+![Caption for Image 5](https://raw.githubusercontent.com/aurangau/img_res/image5.jpg)
+![Caption for Image 6](https://raw.githubusercontent.com/aurangau/img_res/image6.jpg)
+
+![Caption for Image 7](https://raw.githubusercontent.com/aurangau/img_res/image7.jpg)
+![Caption for Image 8](https://raw.githubusercontent.com/aurangau/img_res/image8.jpg)
+![Caption for Image 9](https://raw.githubusercontent.com/aurangau/img_res/image9.jpg)
+
 
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
