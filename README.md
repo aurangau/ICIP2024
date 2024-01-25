@@ -24,6 +24,8 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 | --- | --- | --- |
 | NA Landweber | PC Landweber | Ours |
 
+### Average Blur
+
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
 ## Metric Q based blending strategy
