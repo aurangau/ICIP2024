@@ -26,7 +26,7 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ![Caption for Image 8](Resulting_Images/face.png)
 ![Caption for Image 9](Resulting_Images/face.png)
 
-
+</div>
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
 ## Metric Q based blending strategy
