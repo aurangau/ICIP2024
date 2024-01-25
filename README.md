@@ -27,11 +27,11 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
 ## Metric Q based blending strategy
-| ![Original Image](Blending_Images/flower_original_boxed.png) | ![Patch13](Blending_Images/flower_P13_boxed.png) | ![Image 3](Blending_Images/flower_iter0_boxed.png) |
+| ![Original Image](Blending_Images/flower_original_superimposed.png) | ![Patch13](Blending_Images/flower_P13_superimposed.png) | ![Image 3](Blending_Images/flower_iter0_superimposed.png) |
 | --- | --- | --- |
 | Original Image | Image restored with P=13 | Averaging |
 
-| ![Original Image](Blending_Images/flower_iter1_boxed.png) | ![Patch13](Blending_Images/flower_iter2_boxed.png) | ![Image 3](Blending_Images/flower_iter3_boxed.png) |
+| ![Original Image](Blending_Images/flower_iter1_superimposed.png) | ![Patch13](Blending_Images/flower_iter2_superimposed.png) | ![Image 3](Blending_Images/flower_iter3_superimposed.png) |
 | --- | --- | --- |
 | Iteration 1| Iteration 2 | Iteration 3 |
 
