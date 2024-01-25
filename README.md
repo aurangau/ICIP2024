@@ -12,7 +12,7 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ## Results
 <!-- Replace "YourRepoName" with your actual GitHub repository name -->
-![Caption for Image 1](img src="Resulting_Images/face.png" width="200")
+![Caption for Image 1]<img src="Resulting_Images/face.png" width="200">
 ![Caption for Image 2](https://raw.githubusercontent.com/aurangau/img_res/image2.jpg)
 ![Caption for Image 3](https://raw.githubusercontent.com/aurangau/img_res/image3.jpg)
 
