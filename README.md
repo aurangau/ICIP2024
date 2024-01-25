@@ -11,9 +11,10 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ## Index J
 
 ## Results
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 <!-- Replace "YourRepoName" with your actual GitHub repository name -->
 ![Caption for Image 2](Resulting_Images/face.png)
-<br>*Caption*
+<p>Cap</p>
 ![Caption for Image 2](Resulting_Images/face.png)
 ![Caption for Image 3](Resulting_Images/face.png)
 
