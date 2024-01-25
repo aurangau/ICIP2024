@@ -25,6 +25,10 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 | NA Landweber | PC Landweber | Ours |
 
 ### Average Blur
+Size = 3 * 3
+| ![Image 100](Box_Blur_Comparison/barbara_original.png) | ![Image 101](Box_Blur_Comparison/barbara_blurred_3_box.png) | ![Image 102](Box_Blur_Comparison/barbara_restored_3_box.png)  |
+| --- | --- | --- |
+| Original Image| Blurry Image | Restored Image |
 
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
 
