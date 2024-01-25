@@ -12,9 +12,9 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ## Results
 
-| ![Image 1](Resulting_Images/face.png) | ![Image 2](Resulting_Images/face.png) | ![Image 3](Resulting_Images/face.png) |
+| ![Image 1](Resulting_Images/face.png) | ![Image 2](Resulting_Images/face_blurred.png) | ![Image 3](Resulting_Images/face_restormer.png) |
 | --- | --- | --- |
-| Caption for Image 1 | Caption for Image 2 | Caption for Image 3 |
+| Original Image | Blurry Image | Restormer |
 
 ![Caption for Image 2](Resulting_Images/face.png)
 ![Caption for Image 2](Resulting_Images/face.png)
