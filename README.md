@@ -25,10 +25,10 @@ Set14[1] and set5[2] were used to measure the performance of our algorithm again
 #### Set14
 | Algorithm | PSNR (dB) | SSIM |
 | --- | --- | --- |
-| IFAN | 23.100 | 0.653 | 
-| Restormer | 24.566 | 0.723 | 
-| NBDNet | 27.280 | 0.754 | 
-| Landweber | 26.263 | 0.757 | 
+| IFAN [3] | 23.100 | 0.653 | 
+| Restormer [4] | 24.566 | 0.723 | 
+| NBDNet [5] | 27.280 | 0.754 | 
+| Landweber [6] | 26.263 | 0.757 | 
 | NA Landweber | 26.291 | 0.758 | 
 | PC Landweber | 27.732 | 0.820 | 
 | **Ours**| **29.287** | **0.847** |  
@@ -37,8 +37,8 @@ Set14[1] and set5[2] were used to measure the performance of our algorithm again
 | Algorithm | PSNR (dB) | SSIM |
 | --- | --- | --- |
 | IFAN | 25.409 | 0.789 | 
-| Restormer | 26.645 | 0.823 | 
-| NBDNet | 31.036 | 0.869 | 
+| Restormer| 26.645 | 0.823 | 
+| NBDNet| 31.036 | 0.869 | 
 | Landweber | 29.011 | 0.849 | 
 | NA Landweber | 30.019 | 0.867 | 
 | PC Landweber | 30.715 | 0.890 |
@@ -47,11 +47,11 @@ Set14[1] and set5[2] were used to measure the performance of our algorithm again
 ### Visual Comparison 
 | ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
 | --- | --- | --- |
-| Original Image | Blurry Image | Restormer |
+| Original Image | Blurry Image | Restormer [4] |
 
 | ![Image 4](Superimposed_Images/face_ifan_superimposed.png) | ![Image 5](Superimposed_Images/face_NBDNet_superimposed.png) | ![Image 6](Superimposed_Images/face_L_superimposed.png) |
 | --- | --- | --- |
-| IFAN | NBDNet | Landweber |
+| IFAN [3] | NBDNet [5] | Landweber [6] |
 
 | ![Image 7](Superimposed_Images/face_NAL_superimposed.png) | ![Image 8](Superimposed_Images/face_PCL_superimposed.png) | ![Image 9](Superimposed_Images/face_RAID_superimposed.png) |
 | --- | --- | --- |
@@ -108,4 +108,23 @@ Curves and Surfaces: 7th International Conference, Avignon, France, June 24-30, 
 [2] Marco Bevilacqua, Aline Roumy, Christine Guillemot,
 and Marie Line Alberi-Morel, “Low-complexity singleimage super-resolution based on nonnegative neighbor
 embedding,” 2012.
+
+[3] Junyong Lee, Hyeongseok Son, Jaesung Rim, Sunghyun
+Cho, and Seungyong Lee, “Iterative filter adaptive network for single image defocus deblurring,” in Proceedings of the IEEE/CVF Conference on Computer Vision
+and Pattern Recognition, 2021, pp. 2034–2042.
+
+[4] Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, and Ming-Hsuan
+Yang, “Restormer: Efficient transformer for highresolution image restoration,” in Proceedings of the
+IEEE/CVF conference on computer vision and pattern
+recognition, 2022, pp. 5728–5739.
+
+[5] Liang Chen, Jiawei Zhang, Jinshan Pan, Songnan Lin,
+Faming Fang, and Jimmy S Ren, “Learning a non-blind
+deblurring network for night blurry images,” in Proceedings of the IEEE/CVF Conference on Computer Vision
+and Pattern Recognition, 2021.
+
+[6] Lizhong Wang, Pierre-Alain Fayolle, and Alexander G
+Belyaev, “Reverse image filtering with clean and noisy
+filters,” Signal, Image and Video Processing, vol. 17, no.
+2, pp. 333–341, 2023.
 ## Acknowledgments
