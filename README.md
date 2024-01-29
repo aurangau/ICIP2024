@@ -31,7 +31,7 @@ Set14[] and set5 were used to measure the performance of our algorithm against p
 | Landweber | 26.263 | 0.757 | 
 | NA Landweber | 26.291 | 0.758 | 
 | PC Landweber | 27.732 | 0.820 | 
-| Ours | 29.287 | 0.847 |  
+| **Ours**| **29.287** | **0.847** |  
 
 ### Set 5
 | Algorithm | PSNR (dB) | SSIM |
@@ -41,10 +41,11 @@ Set14[] and set5 were used to measure the performance of our algorithm against p
 | NBDNet | 31.036 | 0.869 | 
 | Landweber | 29.011 | 0.849 | 
 | NA Landweber | 30.019 | 0.867 | 
-| PC Landweber | 30.715 | 0.890 | ### Graphical Comparison
+| PC Landweber | 30.715 | 0.890 |
+| **Ours** | **31.999** | **0.900** | 
 We present a plot of the methods w.r.t their blurry images.
 
-| Ours | 31.999 | 0.900 | 
+
 
 ### Visual Comparison 
 | ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
