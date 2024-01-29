@@ -68,6 +68,7 @@ Size = 3 * 3
 | --- | --- | --- | --- |
 | Moore-Penrose Pseudoinverse | 31.96 | 24.21 | 31.98 % | 
 | Least-Squares Solver | 29.50 | 24.21 | 21.82 % | 
+| **Overall Increase** | **8.34 %** | N\A | N\A | 
 
 
 | ![Image 10](MP_LS_Comparison/img_001_SRF_2_HR_original.png) | ![Image 11](MP_LS_Comparison/img_001_SRF_2_HR_blurred.png) |
