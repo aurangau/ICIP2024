@@ -20,6 +20,22 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ## Results
 
+### Tabular Results 
+
+#### Set14
+| Algorithm | PSNR (dB) | SSIM |
+| --- | --- | --- |
+| IFAN | 23.100 | 0.653 | 
+| Restormer | 24.566 | 0.723 | 
+| NBDNet | 27.280 | 0.754 | 
+| Landweber | 26.263 | 0.757 | 
+| NA Landweber | 26.291 | 0.758 | 
+| PC Landweber | 27.732 | 0.820 | 
+| Ours | 29.287 | 0.847 | 
+
+### Graphical Comparison
+
+### Visual Comparison 
 | ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
 | --- | --- | --- |
 | Original Image | Blurry Image | Restormer |
