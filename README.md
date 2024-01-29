@@ -89,7 +89,7 @@ Size = 3 * 3
 
 ## Metric Q based blending strategy
 Algorithm 1 provides a detailed method for calculating the weighting coefficients $$w = \{w_0, w_1, \ldots, w_{\{N-1\}}\}$$ 
-| ![Blend_Alg](blending_algorithm.png) | 
+![Blend_Alg](blending_algorithm.png) 
 
 
 
