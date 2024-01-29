@@ -41,7 +41,9 @@ Set14[] and set5 were used to measure the performance of our algorithm against p
 | NBDNet | 31.036 | 0.869 | 
 | Landweber | 29.011 | 0.849 | 
 | NA Landweber | 30.019 | 0.867 | 
-| PC Landweber | 30.715 | 0.890 | 
+| PC Landweber | 30.715 | 0.890 | ### Graphical Comparison
+We present a plot of the methods w.r.t their blurry images.
+
 | Ours | 31.999 | 0.900 | 
 
 ### Visual Comparison 
