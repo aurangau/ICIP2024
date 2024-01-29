@@ -88,6 +88,8 @@ Size = 3 * 3
 
 
 ## Metric Q based blending strategy
+Algorithm 1 provides a detailed method for calculating the weighting coefficients $$w_i$$ 
+
 | ![Original Image](upd_blended_images/flower_original_new_superimposed.png) | ![Patch13](upd_blended_images/flower_P13_new_superimposed.png) | ![Image 3](upd_blended_images/flower_iter1_new_superimposed.png) |
 | --- | --- | --- |
 | Original Image | Image restored with P=13 | Iteration 1 |
