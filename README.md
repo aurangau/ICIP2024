@@ -88,13 +88,9 @@ Size = 3 * 3
 
 
 ## Metric Q based blending strategy
-| ![Original Image](Blending_Images/flower_original_superimposed.png) | ![Patch13](Blending_Images/flower_P13_superimposed.png) | ![Image 3](Blending_Images/flower_iter0_superimposed.png) |
+| ![Original Image](upd_blended_images/flower_original_new_superimposed.png) | ![Patch13](upd_blended_images/flower_P13_new_superimposed.png) | ![Image 3](upd_blended_images/flower_iter1_new_superimposed.png) |
 | --- | --- | --- |
-| Original Image | Image restored with P=13 | Averaging |
-
-| ![Original Image](Blending_Images/flower_iter1_superimposed.png) | ![Patch13](Blending_Images/flower_iter2_superimposed.png) | ![Image 3](Blending_Images/flower_iter3_superimposed.png) |
-| --- | --- | --- |
-| Iteration 1| Iteration 2 | Iteration 3 |
+| Original Image | Image restored with P=13 | Iteration 1 |
 
 ## References
 
