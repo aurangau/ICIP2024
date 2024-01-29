@@ -64,6 +64,11 @@ Size = 3 * 3
 | Original Image| Blurry Image | Restored Image |
 
 ### Comparison of Moore-Penrose Pseudoinverse and Least Squares Solver
+| Method Name | PSNR(Original, Restored) | PSNR(Original, Blurry) | PSNR Increase % |
+| --- | --- | --- | --- |
+| Moore-Penrose Pseudoinverse | 31.96 | 24.21 | 31.98 % | 
+| Least-Squares Solver | 29.50 | 24.21 | 21.82 % | 
+
 
 | ![Image 10](MP_LS_Comparison/img_001_SRF_2_HR_original.png) | ![Image 11](MP_LS_Comparison/img_001_SRF_2_HR_blurred.png) |
 | --- | --- |
@@ -72,6 +77,7 @@ Size = 3 * 3
 | ![Image 12](MP_LS_Comparison/img_001_SRF_2_HR_LeastSquares_restored.png) | ![Image 13](MP_LS_Comparison/img_001_SRF_2_HR_MoorePenrose_restored.png) |
 | --- | --- |
 | Image restored using Least Squares Approach | Image restored using Moore-Penrose Pseudoinverse Approach |
+
 
 
 ## Metric Q based blending strategy
