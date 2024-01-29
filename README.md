@@ -44,8 +44,6 @@ Set14[] and set5 were used to measure the performance of our algorithm against p
 | PC Landweber | 30.715 | 0.890 | 
 | Ours | 31.999 | 0.900 | 
 
-### Graphical Comparison
-
 ### Visual Comparison 
 | ![Image 1](Superimposed_Images/face_original_superimposed.png) | ![Image 2](Superimposed_Images/face_blurred_superimposed.png) | ![Image 3](Superimposed_Images/face_restormer_superimposed.png) |
 | --- | --- | --- |
