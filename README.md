@@ -13,7 +13,7 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 | --- | --- |
 | Original Image, J = 1.0 | Image Restored with a patch size of 13, J = 0.7031 |
 
-| ![Image 1](IndexJ_Experiments/barbara_blurred.png) | ![Image 2](IndexJ_Experiments/barbara_p21_restored.png) |
+| ![Image 1](IndexJ_Experiments/barbara_blurred.png) | ![Image 2](IndexJ_Experiments/barbara_p21_rsetored.png) |
 | --- | --- |
 | Blurry Image, J = 0.0 | Image Restored with a patch size of 21, J = 0.7796 |
 
