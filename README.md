@@ -21,7 +21,7 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ## Results
 
 ### Tabular Results 
-Set14[] and set5 were used to measure the performance of our algorithm against popular restoration techniques. 
+Set14[1] and set5[2] were used to measure the performance of our algorithm against popular restoration techniques. 
 #### Set14
 | Algorithm | PSNR (dB) | SSIM |
 | --- | --- | --- |
@@ -100,5 +100,12 @@ Algorithm 1 provides a detailed method for calculating the weighting coefficient
 | Original Image | Image restored with P=13 | Iteration 1 |
 
 ## References
+[1] Roman Zeyde, Michael Elad, and Matan Protter, “On
+single image scale-up using sparse-representations,” in
+Curves and Surfaces: 7th International Conference, Avignon, France, June 24-30, 2010, Revised Selected Papers
+7. Springer, 2012, pp. 711–730.
 
+[2] Marco Bevilacqua, Aline Roumy, Christine Guillemot,
+and Marie Line Alberi-Morel, “Low-complexity singleimage super-resolution based on nonnegative neighbor
+embedding,” 2012.
 ## Acknowledgments
