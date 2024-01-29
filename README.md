@@ -31,7 +31,7 @@ Set14[] and set5 were used to measure the performance of our algorithm against p
 | Landweber | 26.263 | 0.757 | 
 | NA Landweber | 26.291 | 0.758 | 
 | PC Landweber | 27.732 | 0.820 | 
-| Ours | 29.287 | 0.847 | 
+| Ours | 29.287 | 0.847 |  
 
 ### Set 5
 | Algorithm | PSNR (dB) | SSIM |
