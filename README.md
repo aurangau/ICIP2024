@@ -21,7 +21,7 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 ## Results
 
 ### Tabular Results 
-
+Set14[] and set5 were used to measure the performance of our algorithm against popular restoration techniques. 
 #### Set14
 | Algorithm | PSNR (dB) | SSIM |
 | --- | --- | --- |
@@ -32,6 +32,17 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 | NA Landweber | 26.291 | 0.758 | 
 | PC Landweber | 27.732 | 0.820 | 
 | Ours | 29.287 | 0.847 | 
+
+### Set 5
+| Algorithm | PSNR (dB) | SSIM |
+| --- | --- | --- |
+| IFAN | 25.409 | 0.789 | 
+| Restormer | 26.645 | 0.823 | 
+| NBDNet | 31.036 | 0.869 | 
+| Landweber | 29.011 | 0.849 | 
+| NA Landweber | 30.019 | 0.867 | 
+| PC Landweber | 30.715 | 0.890 | 
+| Ours | 31.999 | 0.900 | 
 
 ### Graphical Comparison
 
