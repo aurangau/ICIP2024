@@ -137,4 +137,3 @@ and Pattern Recognition, 2021.
 Belyaev, “Reverse image filtering with clean and noisy
 filters,” Signal, Image and Video Processing, vol. 17, no.
 2, pp. 333–341, 2023.
-## Acknowledgments
