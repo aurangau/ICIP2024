@@ -71,13 +71,13 @@ Size = 3 * 3
 | Method Name | PSNR(Original, Restored) | PSNR(Original, Blurry) | PSNR Increase % |
 | --- | --- | --- | --- |
 | Moore-Penrose Pseudoinverse | 31.96 | 24.21 | 31.98 % | 
-| Least-Squares Solver | 29.50 | 24.21 | 21.82 % | 
+| Gradient Based Least-Squares Solver | 29.50 | 24.21 | 21.82 % | 
 | **Overall Increase** | **8.34 %** | - | - | 
 
 | Method Name | SSIM(Original, Restored) | SSIM(Original, Blurry) | SSIM Increase % |
 | --- | --- | --- | --- | 
 | Moore-Penrose Pseudoinverse | 0.9509 | 0.7857 | 21.02 % |
-| Least-Squares Solver | 0.9100 | 0.7857 | 15.82 % |
+| Gradient Based Least-Squares Solver | 0.9100 | 0.7857 | 15.82 % |
 | **Overall Increase** | **4.49 %** | - | - | 
 
 
