@@ -100,6 +100,12 @@ Algorithm 1 provides a detailed method for calculating the weighting coefficient
 | --- | --- | --- |
 | Original Image, Q = 5.3653 | Image restored with P=13, Q = 5.2749 | Iteration 1, Q = 5.2777 |
 
+## Ringing and effect on Q
+
+| ![Original Image](Ringing_Experiments/wall3.png) | ![Patch13](Ringing_Experiments/wall3_ringing.png) | 
+| --- | --- |
+|Original Image, Q = 4.430 | Image with Ringing, Q = 30.0348 | 
+
 ## References
 [1] Roman Zeyde, Michael Elad, and Matan Protter, “On
 single image scale-up using sparse-representations,” in
