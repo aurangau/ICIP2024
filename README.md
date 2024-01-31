@@ -8,6 +8,9 @@ The field of image deblurring has seen tremendous progress with the rise of deep
 
 ## Filter Learning Algorithm
 Flowchart 1 presents a detailed explanation of the learning technique adapted to the of deblurring.
+| ![Image 1](algorithms/training_flow.png) |
+| --- |
+| Flowchart 1: Training Mechanism |
 
 ## Index J
 | ![Image 1](IndexJ_Experiments/barbara_original.png) | ![Image 2](IndexJ_Experiments/barbara_p13_restored.png) |
